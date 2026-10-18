@@ -1,0 +1,6 @@
+{
+  "name": "Frostplow: Cozy Alpine Brigade",
+  "description": "A cozy 3D isometric snow-plowing game with truck upgrades, combo multipliers, snowed-in cabins to liberate, and procedural Web Audio synth sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
